@@ -1,2 +1,2 @@
 # olimpox_repo
-repo for arch
+repo for personal arch
