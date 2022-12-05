@@ -1,2 +1,2 @@
 # olimpox_repo
-repo for personal arch
+repo for personal arco-linux
